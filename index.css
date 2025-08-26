@@ -61,7 +61,7 @@ a.cta-btn {
 
 nav {
   position: fixed;
-  background: #576483;
+  background: #262e40;
   height: 100vh;
   left: 0;
   top: 0;
@@ -140,4 +140,14 @@ ul.secondary li p {
 
 main {
   border: 1px solid white;
+}
+
+
+/* Scrimba solution */
+body {
+  background-color: #303a52;
+}
+
+nav {
+  background: #2C354A;
 }
